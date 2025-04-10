@@ -1,1 +1,0 @@
-select * from Colaborador_Tarde
