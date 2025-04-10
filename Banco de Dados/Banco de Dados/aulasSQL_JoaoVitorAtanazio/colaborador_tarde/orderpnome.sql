@@ -1,2 +1,0 @@
-select Primeiro_nome, Data_admissao from Colaborador_Tarde
-order by Primeiro_Nome
