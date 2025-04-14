@@ -1,1 +1,0 @@
-create database joao_atanazioJOY
