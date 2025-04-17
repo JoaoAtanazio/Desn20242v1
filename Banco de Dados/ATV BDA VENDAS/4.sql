@@ -1,0 +1,1 @@
+select nomevendedor, salariofixo * 2 as 'novo salario' from vendedor

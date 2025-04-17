@@ -1,0 +1,1 @@
+select salariofixo, NomeVendedor, faixacomissao from vendedor

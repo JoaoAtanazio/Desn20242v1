@@ -1,0 +1,3 @@
+--  25) LISTAR O NUMERO DE PRODUTOS QUE CADA PEDIDO CONTEM
+
+select * from pedido
